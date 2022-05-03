@@ -1,0 +1,50 @@
+```
+Comandos para o Windows:
+          - CD: navegar/voltar entre pastas/arquivos
+          - DIR: listar/mostrar pastas e arquivos
+          - MKDIR: criar pasta
+          - DEL:  deletar arquivo
+          - RMDIR: deletar repositorio/pasta e arquivos
+          - CLS : limpar o terminar windows
+          - Botão TABLE = autocompletar
+          - ECHO = replicação/representação de sentença/arquivo
+```
+
+
+
+## Links Úteis
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+**Como usar Git e Git Hub part 1:**
+
+*https://www.youtube.com/watch?v=DqTITcMq68k*
+
+
+
+**Como usar Git e Git Hub part 2:**
+
+*https://www.youtube.com/watch?v=UBAX-13g8OM*
+
+
+
+**Comandos básicos do GitHub**
+
+https://training.github.com/downloads/pt_PT/github-git-cheat-sheet.pdf
+
+
+
+**Manual de Sobrevivência do GitHub - Professor Isidro**
+
+https://www.professorisidro.com.br/manual-de-sobrevivencia-do-github/
+
+
+
+**Comandos Git - Aprenda Git do básico ao avançado**
+
+https://comandosgit.github.io/
+
+
+
+
+
